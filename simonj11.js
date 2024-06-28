@@ -38,7 +38,7 @@ function levelup()
    
     h2.innerText=`level ${level}`;
     //random button choose
-    let randidx=Math.floor(Math.random()*3) ;
+    let randidx=Math.floor(Math.random()*4) ;
     let randclr=btns[randidx];
     let randbtn=document.querySelector(`.${randclr}`);
    
