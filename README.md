@@ -1,1 +1,1 @@
-# Simon-says
+https://simonsaysmindgame.netlify.app/
